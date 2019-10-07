@@ -1,0 +1,27 @@
+{
+    "name": "<KumquatGinger>",
+    "description": "<The caipirinha is a popular summer cocktail and this version takes advantage of a tiny winter fruit.>",
+    "github": "<AbbasAbi>",
+    "ingredients": [
+        "<2 ounces cachaça>",
+        "<5 kumquats -sliced->",
+        "<1 1/2 to 2 tablespoons sugar -superfine->",
+        "<1 teaspoon ginger -fresh, chopped->",
+        "< Garnish: kumquat slice >"
+    ],
+    "directions": [
+        "<Gather the ingredients.>",
+        "<In an old-fashioned glass, place the kumquats, ginger, and sugar.>",
+        "<Muddle well.>",
+        "<Fill the glass with ice, then add the cachaça.>",
+        "<Stir well or shake it.>",
+        "<Garnish with a slice of kumquat.>",
+        "<Serve and enjoy!>"
+    ],
+    "image": "<KumquatGinger.jpg>",
+    "source": "<https://www.thespruceeats.com/kumquat-ginger-caipirinha-recipe-760536>",
+    "keywords": [
+        "<South American Food>",
+        "cocktails",
+    ]
+}
